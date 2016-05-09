@@ -5,7 +5,7 @@ movies = {
   Ishtar: 1
 }
 
-puts "What would you like to do?"
+puts "What would you like to do for this?"
 puts "-- Type 'add' to add a movie."
 puts "-- Type 'update' to update a movie."
 puts "-- Type 'display' to display all movies."
